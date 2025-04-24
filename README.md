@@ -9,7 +9,7 @@ Plany dla wersji:
 
 DOSTĘPNE WKRÓTCE:
 ```
-  - Z duża dolną półką
+  - Z dużą dolną półką
   - Tylko organizery
   - Tylko pudełka Keeper
 ```
