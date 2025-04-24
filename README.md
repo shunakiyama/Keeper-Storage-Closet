@@ -7,10 +7,10 @@ Plany szafy są zlokalizowane w folderze [/plans](https://github.com/shunakiyama
 DOSTĘPNE WKRÓTCE:
 ```
 Plany dla wersji:
-  - [Pełnej](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/fully_featured)
-  - [Z duża dolną półką](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/big_bottom_shelf)
-  - [Tylko organizery](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/electronics_organizer)
-  - [Tylko pudełka Keeper](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/boxes_only)
+  - [Pełnej](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/pl/fully_featured_pl.pdf)
+  - [Z duża dolną półką](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/pl/big_bottom_shelf_pl.pdf)
+  - [Tylko organizery](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/pl/electronics_organizer_pl.pdf)
+  - [Tylko pudełka Keeper](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/pl/plans/boxes_only_pl.pdf)
 ```
 
 # 🇬🇧 Keeper Storage Closet
@@ -22,10 +22,10 @@ Plans are located in the directory [/plans](https://github.com/shunakiyama/Keepe
 COMING SOON:
 ```
 Plans by version:
-  - [Fully featured](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/fully_featured)
-  - [Big bottom shelf](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/big_bottom_shelf)
-  - [Electronic parts organizer](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/electronics_organizer)
-  - [Boxes only](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/boxes_only)
+  - [Fully featured](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/eng/fully_featured_eng.pdf)
+  - [Big bottom shelf](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/eng/big_bottom_shelf_eng.pdf)
+  - [Electronic parts organizer](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/eng/electronics_organizer_eng.pdf)
+  - [Boxes only](https://github.com/shunakiyama/Keeper-Storage-Closet/tree/main/plans/eng/boxes_only_eng.pdf)
 ```
 # 📷
 
