@@ -1,4 +1,4 @@
-![Solidworks render](https://github.com/shunakiyama/Keeper-Storage-Closet/blob/main/pics/closet_full_2.PNG)
+![Solidworks render](https://github.com/shunakiyama/Keeper-Storage-Closet/blob/main/pics/closet_full_3.PNG)
 
 # 🇵🇱 Szafa Magazynowa Keeper
 Szafa do przechowywania znormalizowana pod kątem średniej wielkości pojemników marki Keeper. Oferuje dodatkową, bardzo dużą półkę na spodzie, aby pomieścić najcięższe i największe przedmioty. Jedna z półek została również powiększona, aby umożliwić pionowe przechowywanie organizerów z drobiazgami elektronicznymi. Wkrótce dostępna będzie wersja bez obu tych funkcji.
