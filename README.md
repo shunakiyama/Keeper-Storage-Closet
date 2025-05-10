@@ -48,6 +48,7 @@ Folder ```models_closet``` has all the models used for the full assembly ```clos
 Files ```closet_[1-3]_[VERSION NAME]``` have full assembly of the closet in three diffrent versions. The finall version is the third version,  ```closet_3_fully_featured.SLDASM```. Files ```closet_assem_1-7_[PART NAME].SLDASM``` have additional assemblies that are used in the finall, full version of the assembly.
 
 # 📷
-![Making of](https://github.com/shunakiyama/Keeper-Storage-Closet/blob/main/pics/colage_1.PNG)
-![Finished](https://github.com/shunakiyama/Keeper-Storage-Closet/blob/main/pics/colage_2.PNG)
+
+![Making of](https://github.com/shunakiyama/Keeper-Storage-Closet/blob/main/pics/colage_1.png)
+![Finished](https://github.com/shunakiyama/Keeper-Storage-Closet/blob/main/pics/colage_2.png)
 
